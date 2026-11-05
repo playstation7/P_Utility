@@ -9,6 +9,13 @@
 			Console.WriteLine("Hello, World!2027");
 			Console.WriteLine("Hello, World!2028");
 			Console.WriteLine("Hello, World!2030");
+
+			ShowCongrats();
+		}
+
+		static void ShowCongrats()
+		{
+			Console.WriteLine("Happy new year!");
 		}
 	}
 }
