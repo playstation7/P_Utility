@@ -16,6 +16,7 @@
 		static void ShowCongrats()
 		{
 			Console.WriteLine("Happy new year!");
+			Console.WriteLine("Happy new year!Twice");
 		}
 	}
 }
